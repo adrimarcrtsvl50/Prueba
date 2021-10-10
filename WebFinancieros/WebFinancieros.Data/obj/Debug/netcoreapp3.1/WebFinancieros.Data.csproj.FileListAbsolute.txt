@@ -1,0 +1,10 @@
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\bin\Debug\netcoreapp3.1\WebFinancieros.Data.deps.json
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\bin\Debug\netcoreapp3.1\WebFinancieros.Data.dll
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\bin\Debug\netcoreapp3.1\WebFinancieros.Data.pdb
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.csproj.AssemblyReference.cache
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.AssemblyInfoInputs.cache
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.AssemblyInfo.cs
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.csproj.CoreCompileInputs.cache
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.dll
+D:\2021-1\prueba\WebFinancieros\WebFinancieros.Data\obj\Debug\netcoreapp3.1\WebFinancieros.Data.pdb
